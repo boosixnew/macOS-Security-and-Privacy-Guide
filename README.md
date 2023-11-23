@@ -2449,3 +2449,6 @@ drwx------  2 kevin  staff       64 Dec  4 12:27 umask_testing_dir
 * [Userland Persistence on Mac OS X](https://archive.org/details/joshpitts_shmoocon2015)
 * [iCloud security and privacy overview](https://support.apple.com/kb/HT4865)
 * [iSeeYou: Disabling the MacBook Webcam Indicator LED](https://jscholarship.library.jhu.edu/handle/1774.2/36569)
+
+
+Business hand remember peace.
